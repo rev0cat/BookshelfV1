@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-29T10:42:22.372915Z</date>
+  <millis>1669718542372</millis>
+  <nanos>915000</nanos>
+  <sequence>0</sequence>
+  <logger>book.shelf</logger>
+  <level>INFO</level>
+  <class>book.shelf</class>
+  <method>lambda$addBook$1</method>
+  <thread>1</thread>
+  <message>新添加一条书籍信息Book(bid=0, title=RTG=, desc=SAD, price=1144.5)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-29T11:10:43.118792400Z</date>
+  <millis>1669720243118</millis>
+  <nanos>792400</nanos>
+  <sequence>0</sequence>
+  <logger>book.shelf</logger>
+  <level>INFO</level>
+  <class>book.shelf</class>
+  <method>lambda$addStudent$0</method>
+  <thread>1</thread>
+  <message>新添加一条学生信息Student(sid=0, name=t, sex=男, grade=2021)</message>
+</record>
+<record>
+  <date>2022-11-29T11:10:51.352730900Z</date>
+  <millis>1669720251352</millis>
+  <nanos>730900</nanos>
+  <sequence>1</sequence>
+  <logger>book.shelf</logger>
+  <level>INFO</level>
+  <class>book.shelf</class>
+  <method>lambda$addBook$1</method>
+  <thread>1</thread>
+  <message>新添加一条书籍信息Book(bid=0, title=jasi, desc=iudfs, price=15465.3)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-29T11:51:35.866076200Z</date>
+  <millis>1669722695866</millis>
+  <nanos>76200</nanos>
+  <sequence>0</sequence>
+  <logger>book.shelf</logger>
+  <level>INFO</level>
+  <class>book.shelf</class>
+  <method>lambda$addStudent$0</method>
+  <thread>1</thread>
+  <message>新添加一条学生信息Student(sid=0, name=尼玛, sex=女, grade=2202)</message>
+</record>
+</log>
